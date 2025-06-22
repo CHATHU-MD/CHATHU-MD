@@ -15,8 +15,8 @@
 
 𝐂𝐡𝐚𝐭𝐡𝐮 𝐌𝐃 Multidevice Whatsapp Bot Mack By (Imesh Chathuranga).
 
-<a><img src=''/>https://i.ibb.co/xScC16P0/SulaMd.jpg</a>
-
+<a><img src=''/></a>
+https://i.ibb.co/xScC16P0/SulaMd.jpg
 <br>
 
 ![forks]()            ![stars]()
