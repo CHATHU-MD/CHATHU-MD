@@ -67,7 +67,7 @@
 `IF YOU WANT TO DEPLOY CHATH-MD BOT ON HEROKU SO FIRSTGET YOUR SESSION_ID THEN CLICK THIS BLUE BUTTON [DEPLOY TO HEROKU] THEN YOU CAN ENJOY THIS `
 
  
-<a href="https://dashboard.heroku.com/new-app?template=https://github.com/CHATHU-MD/SCHATHU-MD" target="blank"><img align="center" src="https://ibb.co/LXgJvqSZ" alt="DEPLOY BOT" height="90" width="280" /></a>
+<a href="https://dashboard.heroku.com/new-app?template=https://github.com/CHATHU-MD/SCHATHU-MD" target="blank"><img align="center" src="" alt="DEPLOY BOT" height="90" width="280" /></a>
 
 <hr>
 
@@ -86,11 +86,11 @@
 
 <b>CONTACT OWNER</b>
 
-[![𝗖𝗛𝗔𝗧𝗛𝗨-𝗠𝗗](https://i.ibb.co/xScC16P0/SulaMd.jpg)](https://wa.me/+94750893377)
+[![𝗖𝗛𝗔𝗧𝗛𝗨-𝗠𝗗]()](https://wa.me/+94750893377)
 
 <hr>
 
-<a href="https://whatsapp.com/channel/0029VbAhEfaKLaHnxYcTvb3l"><img src="https://i.ibb.co/xScC16P0/SulaMd.jpg" alt="📎 Join Our WhatsApp Channel" width="300"></a>
+<a href="https://whatsapp.com/channel/0029VbAhEfaKLaHnxYcTvb3l"><img src="" alt="📎 Join Our WhatsApp Channel" width="300"></a>
 
 <hr>
 
