@@ -7,7 +7,7 @@
  <img src="" height="90" width="100%">
  <br>
  
-<img src="" height="300" width="100%">
+<img src="https://i.ibb.co/xScC16P0/SulaMd.jpg" height="300" width="100%">
 
 <br>
 
@@ -16,7 +16,6 @@
 𝐂𝐡𝐚𝐭𝐡𝐮 𝐌𝐃 Multidevice Whatsapp Bot Mack By (Imesh Chathuranga).
 
 <a><img src=''/></a>
-https://i.ibb.co/xScC16P0/SulaMd.jpg
 <br>
 
 ![forks]()            ![stars]()
