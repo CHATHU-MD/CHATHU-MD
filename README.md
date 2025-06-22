@@ -1,13 +1,13 @@
 <div align="center">
 
  <p align="center">
-<a href="https://git.io/typing-svg"><https://i.ibb.co/xScC16P0/SulaMd.jpg" /></a>
+<a href="https://git.io/typing-svg"><" /></a>
 
 
  <img src="" height="90" width="100%">
  <br>
  
-<img src="https://i.ibb.co/xScC16P0/SulaMd.jpg" height="300" width="100%">
+<img src="" height="300" width="100%">
 
 <br>
 
@@ -51,7 +51,7 @@
 
 <a href='https://chathu-md-j3jq.onrender.com' target="_blank"><img alt='Get Session ID' src='/Click here to get your session id 1-blue?style=for-the-badge&logo=opencv&logoColor=white'/></a>
 
-<a href='https://Chathu-Md web-69ef41909ab5.herokuapp.com/' target="_blank"><img alt='Get Session ID' src=https://i.ibb.co/xScC16P0/SulaMd.jpg/Click here to get your session id 2-red?style=for-the-badge&logo=opencv&logoColor=white'/></a>
+<a href='https://Chathu-Md web-69ef41909ab5.herokuapp.com/' target="_blank"><img alt='Get Session ID' src=/Click here to get your session id 2-red?style=for-the-badge&logo=opencv&logoColor=white'/></a>
 
 <hr>
 
