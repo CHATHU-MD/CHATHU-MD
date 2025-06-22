@@ -84,11 +84,11 @@ CHATHU-MD Multidevice Whatsapp Bot.
 
 <b>CONTACT OWNER</b>
 
-[![𝐒𝐔𝐋𝐀-𝐌𝐃](https://telegra.ph/file/99460844d012cad1b7ee4.jpg)](https://wa.me/+94760663483)
+[![𝐒𝐔𝐋𝐀-𝐌𝐃](https://telegra.ph/file/99460844d012cad1b7ee4.jpg)](https://wa.me/+94750893377)
 
 <hr>
 
-<a href="https://whatsapp.com/channel/0029VakXjl80rGiFkl4nR62Z"><img src="https://img.shields.io/badge/%E2%9D%A4%EF%B8%8F%E2%80%8D%20Join%20Our%20WhatsApp%20Channel%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB-green" alt="📎 Join Our WhatsApp Channel" width="300"></a>
+<a href="https://whatsapp.com/channel/0029VbAhEfaKLaHnxYcTvb3l"><img src="https://img.shields.io/badge/%E2%9D%A4%EF%B8%8F%E2%80%8D%20Join%20Our%20WhatsApp%20Channel%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB-green" alt="📎 Join Our WhatsApp Channel" width="300"></a>
 
 <hr>
 
@@ -135,4 +135,3 @@ jobs:
       run: npm start
 ```
 
-## 𝐒𝐔𝐋𝐀-𝐌𝐃 𝗥𝗘𝗟𝗘𝗦𝗘 𝗗𝗔𝗧𝗘 2025/03/20
