@@ -19,7 +19,7 @@
 
 <br>
 
-![forks]()            ![stars]()
+![forks]()            ![stars](https://i.ibb.co/xScC16P0/SulaMd.jpg)
 
 <p align="center">
   <a href="https://github.com/CHATHU-MD/CHATHU-MD">
