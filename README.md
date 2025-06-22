@@ -4,18 +4,18 @@
 <a href="https://git.io/typing-svg"><https://i.ibb.co/xScC16P0/SulaMd.jpg" /></a>
 
 
- <img src="https://i.ibb.co/xScC16P0/SulaMd.jpg height="90" width="100%">
+ <img src="" height="90" width="100%">
  <br>
  
 <img src="https://i.ibb.co/xScC16P0/SulaMd.jpg" height="300" width="100%">
 
 <br>
 
-<a><img src='https://i.ibb.co/xScC16P0/SulaMd.jpg'/></a>
+<a><''/></a>
 
 𝐂𝐡𝐚𝐭𝐡𝐮 𝐌𝐃 Multidevice Whatsapp Bot Mack By (Imesh Chathuranga).
 
-<a><img src='https://i.ibb.co/xScC16P0/SulaMd.jpg'/></a>
+<a><img src=''/></a>
 
 <br>
 
@@ -23,19 +23,19 @@
 
 <p align="center">
   <a href="https://github.com/CHATHU-MD/CHATHU-MD">
-    <img src="https://i.ibb.co/xScC16P0/SulaMd.jpg">
+    <img src="">
 
   </a>
   <a href="https://github.com/CHATHU-MD/CHATHU-MD">
-    <img src="https://i.ibb.co/xScC16P0/SulaMd.jpg">
+    <img src="">
 
   </a>
   <a href="https://github.com/CHATHU-MD/CHATHU-MD">
-    <img src="https://i.ibb.co/xScC16P0/SulaMd.jpg">
+    <img src="">
 
   </a>
   <a href="https://github.com/CHATHU-MD/CHATHU-MD">
-    <img src="https://i.ibb.co/xScC16P0/SulaMd.jpg">
+    <img src="">
 
   </a>
   </p>
@@ -43,13 +43,13 @@
  
  <b>Visitor's Count</b>
  
-<p align="center"><img src="https://i.ibb.co/xScC16P0/SulaMd.jpg" alt="CHATHU-MD/CHATHU-MD :: Visitor's Count" old_src="https://profile-counter.glitch.me/{CHATHU-MD}/count.svg" /></p>
+<p align="center"><img src="" alt="CHATHU-MD/CHATHU-MD :: Visitor's Count" old_src="https://profile-counter.glitch.me/{CHATHU-MD}/count.svg" /></p>
  
 <hr>
 
 <b>GET SESSION ID VIA PAIR CODE </b>
 
-<a href='https://chathu-md-j3jq.onrender.com' target="_blank"><img alt='Get Session ID' src='https://i.ibb.co/xScC16P0/SulaMd.jpg/Click here to get your session id 1-blue?style=for-the-badge&logo=opencv&logoColor=white'/></a>
+<a href='https://chathu-md-j3jq.onrender.com' target="_blank"><img alt='Get Session ID' src='/Click here to get your session id 1-blue?style=for-the-badge&logo=opencv&logoColor=white'/></a>
 
 <a href='https://Chathu-Md web-69ef41909ab5.herokuapp.com/' target="_blank"><img alt='Get Session ID' src=https://i.ibb.co/xScC16P0/SulaMd.jpg/Click here to get your session id 2-red?style=for-the-badge&logo=opencv&logoColor=white'/></a>
 
@@ -58,7 +58,7 @@
 <b>GET MONGODB URL</b>
     
 <a href="--" target="_blank">
-    <img src="https://i.ibb.co/xScC16P0/SulaMd.jpg" alt="YouTube Channel"></a>
+    <img src="" alt="YouTube Channel"></a>
  
 <hr>
 
