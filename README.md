@@ -20,19 +20,19 @@ CHATHU-MD Multidevice Whatsapp Bot.
 ![forks](https://img.shields.io/github/forks/SULA-MD/SULA-MD?label=Forks&style=social)            ![stars](https://img.shields.io/github/stars/SULA-MD/SULA-MD?style=social)
 
 <p align="center">
-  <a href="https://github.com/SULA-MD/SULA-MD">
+  <a href="https://github.com/CHATHU-MD/CHATHU-MD">
     <img src="https://img.shields.io/github/repo-size/sulaksha449/SULA-MD?color=purple&label=Repo%20Size&style=plastic">
 
   </a>
-  <a href="https://github.com/SULA-MD/SULA-MD">
+  <a href="https://github.com/CHATHU-MD/CHATHU-MD">
     <img src="https://img.shields.io/github/license/sulaksha449/SULA-MD?color=purple&label=License&style=plastic">
 
   </a>
-  <a href="https://github.com/SULA-MD/SULA-MD">
+  <a href="https://github.com/CHATHU-MD/CHATHU-MD">
     <img src="https://img.shields.io/github/languages/top/sulaksha449/SULA-MD?color=purple&label=Javascript&style=plastic">
 
   </a>
-  <a href="https://github.com/SULA-MD/SULA-MD">
+  <a href="https://github.com/CHATHU-MD/CHATHU-MD">
     <img src="https://img.shields.io/static/v1?label=Author&message=Sulaksha%20Madara&color=purple&style=plastic">
 
   </a>
@@ -41,7 +41,7 @@ CHATHU-MD Multidevice Whatsapp Bot.
  
  <b>Visitor's Count</b>
  
-<p align="center"><img src="https://profile-counter.glitch.me/{SULA-MD}/count.svg" alt="SULA-MD/SULA-MD :: Visitor's Count" old_src="https://profile-counter.glitch.me/{SULA-MD}/count.svg" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{SULA-MD}/count.svg" alt="SULA-MD/SULA-MD :: Visitor's Count" old_src="https://profile-counter.glitch.me/{CHATHU-MD}/count.svg" /></p>
  
 <hr>
 
@@ -65,7 +65,7 @@ CHATHU-MD Multidevice Whatsapp Bot.
 `IF YOU WANT TO DEPLOY SULA-MD BOT ON HEROKU SO FIRST GET YOUR SESSION_ID THEN CLICK THIS BLUE BUTTON [DEPLOY TO HEROKU] THEN YOU CAN ENJOY THIS BOT`
 
  
-<a href="https://dashboard.heroku.com/new-app?template=https://github.com/SULA-MD/SULA-MD" target="blank"><img align="center" src="https://i.imgur.com/6rs61MY.png" alt="DEPLOY BOT" height="90" width="280" /></a>
+<a href="https://dashboard.heroku.com/new-app?template=https://github.com/CHATHU-MD/CHATHU-MD" target="blank"><img align="center" src="https://i.imgur.com/6rs61MY.png" alt="DEPLOY BOT" height="90" width="280" /></a>
 
 <hr>
 
