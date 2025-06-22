@@ -1,41 +1,41 @@
 <div align="center">
 
  <p align="center">
-<a href="https://git.io/typing-svg"><https://ibb.co/LXgJvqSZ" /></a>
+<a href="https://git.io/typing-svg"><https://i.ibb.co/xScC16P0/SulaMd.jpg" /></a>
 
 
- <img src="https://ibb.co/LXgJvqSZ" height="90" width="100%">
+ <img src="https://i.ibb.co/xScC16P0/SulaMd.jpg height="90" width="100%">
  <br>
  
-<img src="https://ibb.co/LXgJvqSZ" height="300" width="100%">
+<img src="https://i.ibb.co/xScC16P0/SulaMd.jpg" height="300" width="100%">
 
 <br>
 
-<a><img src='https://ibb.co/LXgJvqSZ'/></a>
+<a><img src='https://i.ibb.co/xScC16P0/SulaMd.jpg'/></a>
 
 𝐂𝐡𝐚𝐭𝐡𝐮 𝐌𝐃 Multidevice Whatsapp Bot Mack By (Imesh Chathuranga).
 
-<a><img src='https://ibb.co/LXgJvqSZ'/></a>
+<a><img src='https://i.ibb.co/xScC16P0/SulaMd.jpg'/></a>
 
 <br>
 
-![forks](https://ibb.co/LXgJvqSZ)            ![stars](https://ibb.co/LXgJvqSZ)
+![forks](https://i.ibb.co/xScC16P0/SulaMd.jpg)            ![stars](https://i.ibb.co/xScC16P0/SulaMd.jpg)
 
 <p align="center">
   <a href="https://github.com/CHATHU-MD/CHATHU-MD">
-    <img src="https://ibb.co/LXgJvqSZ">
+    <img src="https://i.ibb.co/xScC16P0/SulaMd.jpg">
 
   </a>
   <a href="https://github.com/CHATHU-MD/CHATHU-MD">
-    <img src="https://ibb.co/LXgJvqSZ">
+    <img src="https://i.ibb.co/xScC16P0/SulaMd.jpg">
 
   </a>
   <a href="https://github.com/CHATHU-MD/CHATHU-MD">
-    <img src="https://ibb.co/LXgJvqSZ">
+    <img src="https://i.ibb.co/xScC16P0/SulaMd.jpg">
 
   </a>
   <a href="https://github.com/CHATHU-MD/CHATHU-MD">
-    <img src="https://ibb.co/LXgJvqSZ">
+    <img src="https://i.ibb.co/xScC16P0/SulaMd.jpg">
 
   </a>
   </p>
@@ -43,22 +43,22 @@
  
  <b>Visitor's Count</b>
  
-<p align="center"><img src="https://ibb.co/LXgJvqSZ" alt="SULA-MD/SULA-MD :: Visitor's Count" old_src="https://profile-counter.glitch.me/{CHATHU-MD}/count.svg" /></p>
+<p align="center"><img src="https://i.ibb.co/xScC16P0/SulaMd.jpg" alt="CHATHU-MD/CHATHU-MD :: Visitor's Count" old_src="https://profile-counter.glitch.me/{CHATHU-MD}/count.svg" /></p>
  
 <hr>
 
 <b>GET SESSION ID VIA PAIR CODE </b>
 
-<a href='https://chathu-md-j3jq.onrender.com' target="_blank"><img alt='Get Session ID' src='https://ibb.co/LXgJvqSZ/Click here to get your session id 1-blue?style=for-the-badge&logo=opencv&logoColor=white'/></a>
+<a href='https://chathu-md-j3jq.onrender.com' target="_blank"><img alt='Get Session ID' src='https://i.ibb.co/xScC16P0/SulaMd.jpg/Click here to get your session id 1-blue?style=for-the-badge&logo=opencv&logoColor=white'/></a>
 
-<a href='https://Chathu-Md web-69ef41909ab5.herokuapp.com/' target="_blank"><img alt='Get Session ID' src='https://ibb.co/LXgJvqSZ/Click here to get your session id 2-red?style=for-the-badge&logo=opencv&logoColor=white'/></a>
+<a href='https://Chathu-Md web-69ef41909ab5.herokuapp.com/' target="_blank"><img alt='Get Session ID' src=https://i.ibb.co/xScC16P0/SulaMd.jpg/Click here to get your session id 2-red?style=for-the-badge&logo=opencv&logoColor=white'/></a>
 
 <hr>
 
 <b>GET MONGODB URL</b>
     
 <a href="--" target="_blank">
-    <img src="https://ibb.co/LXgJvqSZ" alt="YouTube Channel"></a>
+    <img src="https://i.ibb.co/xScC16P0/SulaMd.jpg" alt="YouTube Channel"></a>
  
 <hr>
 
@@ -86,11 +86,11 @@
 
 <b>CONTACT OWNER</b>
 
-[![𝗖𝗛𝗔𝗧𝗛𝗨-𝗠𝗗](https://ibb.co/LXgJvqSZ)](https://wa.me/+94750893377)
+[![𝗖𝗛𝗔𝗧𝗛𝗨-𝗠𝗗](https://i.ibb.co/xScC16P0/SulaMd.jpg)](https://wa.me/+94750893377)
 
 <hr>
 
-<a href="https://whatsapp.com/channel/0029VbAhEfaKLaHnxYcTvb3l"><img src="https://"https://ibb.co/LXgJvqSZ" alt="📎 Join Our WhatsApp Channel" width="300"></a>
+<a href="https://whatsapp.com/channel/0029VbAhEfaKLaHnxYcTvb3l"><img src="https://i.ibb.co/xScC16P0/SulaMd.jpg" alt="📎 Join Our WhatsApp Channel" width="300"></a>
 
 <hr>
 
