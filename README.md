@@ -15,11 +15,11 @@
 
 𝐂𝐡𝐚𝐭𝐡𝐮 𝐌𝐃 Multidevice Whatsapp Bot Mack By (Imesh Chathuranga).
 
-<a><img src=''/></a>
+<a><img src=''/>https://i.ibb.co/xScC16P0/SulaMd.jpg</a>
 
 <br>
 
-![forks]()            ![stars](https://i.ibb.co/xScC16P0/SulaMd.jpg)
+![forks]()            ![stars]()
 
 <p align="center">
   <a href="https://github.com/CHATHU-MD/CHATHU-MD">
