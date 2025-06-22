@@ -41,7 +41,7 @@ CHATHU-MD Multidevice Whatsapp Bot.
  
  <b>Visitor's Count</b>
  
-<p align="center"><img src="https://profile-counter.glitch.me/{SULA-MD}/count.svg" alt="SULA-MD/SULA-MD :: Visitor's Count" old_src="https://profile-counter.glitch.me/{CHATHU-MD}/count.svg" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{CHATHU-MD}/count.svg" alt="SULA-MD/SULA-MD :: Visitor's Count" old_src="https://profile-counter.glitch.me/{CHATHU-MD}/count.svg" /></p>
  
 <hr>
 
