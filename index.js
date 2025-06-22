@@ -89,6 +89,15 @@ console.log('CHATHU-MD Bot connected to whatsapp ✅')
 
 let up = `*Connecting CHATHU-MD Multidevice Whatsapp Bot ...💾*
 
+
+*😈 : 𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏 𝐂𝐇𝐀𝐍𝐍𝐄𝐋*
+*╭┈───────────╴╴╴•⟢*
+*│https://whatsapp.com/channel/0029VbAhEfaKLaHnxYcTvb3l*
+*╰┈───────────╴╴╴•⟢*
+*😈 : 𝐂𝐎𝐍𝐓𝐀𝐂𝐓*
+*╭┈───────────╴╴╴•⟢*
+*│wa.me/94750893377*
+*╰┈───────────╴╴╴•⟢*
 `;
 
 conn.sendMessage(conn.user.id,{ image: { url: `https://i.ibb.co/xScC16P0/SulaMd.jpg` }, caption: up })
