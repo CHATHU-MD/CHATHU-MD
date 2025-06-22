@@ -17,7 +17,7 @@ CHATHU-MD Multidevice Whatsapp Bot.
 
 <br>
 
-![forks](https://img.shields.io/github/forks/SULA-MD/SULA-MD?label=Forks&style=social)            ![stars](https://img.shields.io/github/stars/SULA-MD/SULA-MD?style=social)
+![forks](https://img.shields.io/github/forks/CHATHU-MD/CHATHU-MD?label=Forks&style=social)            ![stars](https://img.shields.io/github/stars/CHATHU-MD/CHATHU-MD?style=social)
 
 <p align="center">
   <a href="https://github.com/CHATHU-MD/CHATHU-MD">
@@ -25,11 +25,11 @@ CHATHU-MD Multidevice Whatsapp Bot.
 
   </a>
   <a href="https://github.com/CHATHU-MD/CHATHU-MD">
-    <img src="https://img.shields.io/github/license/sulaksha449/SULA-MD?color=purple&label=License&style=plastic">
+    <img src="https://img.shields.io/github/license/CHATHU-MD/CHATHU-MD?color=purple&label=License&style=plastic">
 
   </a>
   <a href="https://github.com/CHATHU-MD/CHATHU-MD">
-    <img src="https://img.shields.io/github/languages/top/sulaksha449/SULA-MD?color=purple&label=Javascript&style=plastic">
+    <img src="https://img.shields.io/github/languages/top/CHATHU-MD/CHATHU-MD?color=purple&label=Javascript&style=plastic">
 
   </a>
   <a href="https://github.com/CHATHU-MD/CHATHU-MD">
