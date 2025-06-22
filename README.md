@@ -47,9 +47,7 @@ CHATHU-MD Multidevice Whatsapp Bot.
 
 <b>GET SESSION ID VIA PAIR CODE </b>
 
-<a href='https://sula-md-j3jq.onrender.com' target="_blank"><img alt='Get Session ID' src='https://img.shields.io/badge/Click here to get your session id 1-blue?style=for-the-badge&logo=opencv&logoColor=white'/></a>
-
-<a href='https://sulamdweb-69ef41909ab5.herokuapp.com/' target="_blank"><img alt='Get Session ID' src='https://img.shields.io/badge/Click here to get your session id 2-red?style=for-the-badge&logo=opencv&logoColor=white'/></a>
+<a href='https://chathu-md-671b2a1dd91f.herokuapp.com' target="_blank"><img alt='Get Session ID' src='https://img.shields.io/badge/Click here to get your session id-blue?style=for-the-badge&logo=opencv&logoColor=white'/></a>
 
 <hr>
 
@@ -62,7 +60,7 @@ CHATHU-MD Multidevice Whatsapp Bot.
 
 ### <br>   DEPLOY_HEROKU 
 
-`IF YOU WANT TO DEPLOY SULA-MD BOT ON HEROKU SO FIRST GET YOUR SESSION_ID THEN CLICK THIS BLUE BUTTON [DEPLOY TO HEROKU] THEN YOU CAN ENJOY THIS BOT`
+`IF YOU WANT TO DEPLOY CHATHU-MD BOT ON HEROKU SO FIRST GET YOUR SESSION_ID THEN CLICK THIS BLUE BUTTON [DEPLOY TO HEROKU] THEN YOU CAN ENJOY THIS BOT`
 
  
 <a href="https://dashboard.heroku.com/new-app?template=https://github.com/CHATHU-MD/CHATHU-MD" target="blank"><img align="center" src="https://i.imgur.com/6rs61MY.png" alt="DEPLOY BOT" height="90" width="280" /></a>
@@ -73,7 +71,7 @@ CHATHU-MD Multidevice Whatsapp Bot.
 
 <br>
 
-` HOW TO DEPLOY SULA-MD ON HEROKU WATCH VIDEO AND SUPPORT OUR YOUTUBE CHANNEL `
+` HOW TO DEPLOY CHATHU-MD ON HEROKU WATCH VIDEO AND SUPPORT OUR YOUTUBE CHANNEL `
 
 <p align="center">
    <a href="https://youtu.be/zBNbbkTFyG4?si=_a-skfMMehMd5zMT"><img src="https://i.ibb.co/71mYRh4/116-1161192-podcast-subscribe-listen-button-youtube-sign-hd-png.png" alt="Watch tutorial on YouTube" border="0"  width="105">
